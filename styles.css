@@ -4,3 +4,16 @@
   display: flex;
   flex-wrap: wrap;
 }
+.card {
+  border: 2px solid;
+  text-align: center;
+  width: 50%;
+  border-radius: 3px;
+  margin-top: 40px;
+  margin-left: 250px;
+  padding-bottom: 30px;
+}
+.card2 {
+  text-align: center;
+  margin-left: 85px;
+}
