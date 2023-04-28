@@ -1,7 +1,6 @@
-# MEMORY GAME
-Check it out here: [Memory Game](https://guavalines.github.io/Memory_Game/)
+# [MEMORY GAME](https://guavalines.github.io/Memory_Game/)
 
-#### Highlights
+# Description
 cardArray is an array containing objects with the name and image source of each card. It's randomized using the sort method and a random number generator.
 
 The createBoard function appends img elements to the div with ID grid, creating a grid of cards with a blank image and a unique data-id attribute.
@@ -12,7 +11,7 @@ The checkMatch function checks whether the two cards have the same name, updates
 
 The score (i.e., how many pairs of cards have been matched) is displayed on the HTML page in the span with ID result.
 
-### Versions
+# Tools
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
