@@ -1,6 +1,9 @@
 # [MEMORY GAME](https://guavalines.github.io/Memory_Game/) ☜ play here
 
 # Description
+In the memory game, players flip over cards to find matching pairs from a deck laid face down on a surface, aiming to find and remove all pairs.
+
+# Features
 cardArray is an array containing objects with the name and image source of each card. It's randomized using the sort method and a random number generator.
 
 The createBoard function appends img elements to the div with ID grid, creating a grid of cards with a blank image and a unique data-id attribute.
