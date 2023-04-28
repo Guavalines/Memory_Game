@@ -1,4 +1,4 @@
-# [MEMORY GAME](https://guavalines.github.io/Memory_Game/)
+# [MEMORY GAME](https://guavalines.github.io/Memory_Game/) ☜ play here
 
 # Description
 cardArray is an array containing objects with the name and image source of each card. It's randomized using the sort method and a random number generator.
