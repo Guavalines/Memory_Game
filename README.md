@@ -1,4 +1,4 @@
-# [MEMORY GAME](https://guavalines.github.io/Memory_Game/) ☜ play here
+# [🧠 MEMORY GAME](https://guavalines.github.io/Memory_Game/) ☜ play here
 
 # Description
 In the memory game, players flip over cards to find matching pairs from a deck laid face down on a surface, aiming to find and remove all pairs.
